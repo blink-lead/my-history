@@ -7,6 +7,8 @@
     </text>
   </defs>
 
+  <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Green-checkmark-with-rounded-ends.svg" height="16"/>
+     
   <text x="100" y="100" font-size="45" >
     Inline character data
   </text>
