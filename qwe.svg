@@ -8,7 +8,7 @@
      width="16"
      height="16"
      id="checkmark"
-     xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIuNSA1IDIwIDE1Ij48cGF0aCBkPSJtOS42ODggMTUuODk4LTMuOTgtMy45OGExIDEgMCAwIDAtMS40MTUgMS40MTRMOC45OCAxOC4wMmExIDEgMCAwIDAgMS40MTUgMEwyMC43MDcgNy43MDdhMSAxIDAgMCAwLTEuNDE0LTEuNDE0bC05LjYwNSA5LjYwNXoiIGZpbGw9IiMyY2JiNWQiLz48L3N2Zz4="/>
+     xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Green-checkmark-with-rounded-ends.svg"/>
 </defs>
 <use xlink:href="#checkmark"/>
 </svg>
