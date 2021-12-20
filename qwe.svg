@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-width="20"
-height="26">
+width="26"
+height="28">
 <defs>
 <image
-     y      = "10"
-     height = "16"
+     y      = "8"
+     height = "20"
      id="checkmark"
      xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIuNSA1IDIwIDE1Ij48cGF0aCBkPSJtOS42ODggMTUuODk4LTMuOTgtMy45OGExIDEgMCAwIDAtMS40MTUgMS40MTRMOC45OCAxOC4wMmExIDEgMCAwIDAgMS40MTUgMEwyMC43MDcgNy43MDdhMSAxIDAgMCAwLTEuNDE0LTEuNDE0bC05LjYwNSA5LjYwNXoiIGZpbGw9IiMyY2JiNWQiLz48L3N2Zz4="/>
 </defs>
+<rect height="100%" width="100%" id="MyRect"/>
 <use xlink:href="#checkmark"/>
 </svg>
