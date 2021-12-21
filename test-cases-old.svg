@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 200 200" version="1.1" id="svg16" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <rect style="fill: rgb(119, 119, 118); stroke-width: 0.75;" id="rect12" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 0.000222, 0.000222)" x="66.421" y="-75" width="150" height="150" rx="35" ry="35" bx:origin="-0.5 0.5"/>
-  <path d="M 85.129 119.788 L 64.044 98.702 C 61.163 95.821 56.236 97.139 55.182 101.075 C 54.689 102.903 55.213 104.858 56.549 106.193 L 81.38 131.03 C 83.45 133.101 86.809 133.101 88.875 131.03 L 143.508 76.393 C 146.342 73.463 144.938 68.563 140.98 67.572 C 139.206 67.132 137.329 67.636 136.016 68.902 Z" fill="#2cbb5d" style="stroke: rgb(44, 187, 93); stroke-width: 3px;" id="path14" bx:origin="-0.442812 -0.802088"/>
-</svg>
